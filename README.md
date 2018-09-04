@@ -1,4 +1,4 @@
-## Games Library Desktop Application - With Electron
+## File Manager Desktop Application - With Electron
 
 ### Goal
 
