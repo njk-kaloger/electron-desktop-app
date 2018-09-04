@@ -1,4 +1,4 @@
-## File Manager Desktop Application - With Electron
+## Planner Desktop Application - With Electron
 
 ### Goal
 
